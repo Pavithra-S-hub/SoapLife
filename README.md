@@ -43,9 +43,11 @@ We are creating a website to showcase SoapLife and its features:
 
 ## 🎬 Demo (Coming Soon)
 
--![alt text](<Screenshot 2025-08-02 021632.png>)
--"C:\Users\Pavi\OneDrive\画像\Screenshots\Screenshot 2025-08-02 021749.png"
--"C:\Users\Pavi\OneDrive\画像\Screenshots\Screenshot 2025-08-02 021850.png"
+<img width="1889" height="911" alt="Image" src="https://github.com/user-attachments/assets/fdec8f88-b033-46db-b839-77e20b04dd37" />
+
+<img width="1888" height="921" alt="Image" src="https://github.com/user-attachments/assets/67fce18b-2997-4d8c-b8f8-1e6505a7c56a" />
+
+<img width="1885" height="916" alt="Image" src="https://github.com/user-attachments/assets/16dd4266-afaa-4fbf-b93c-e231b430bb0d" />
 ---
 
 ## Contributors
@@ -54,5 +56,6 @@ We are creating a website to showcase SoapLife and its features:
 -Pavithra S
 
 ---
+
 
 
