@@ -44,7 +44,13 @@ We are creating a website to showcase SoapLife and its features:
 
 ## 🎬 Demo 
 
--
+<img width="1889" height="911" alt="Image" src="https://github.com/user-attachments/assets/d6abc670-5d5e-4159-b00f-939c1e31828e" />
+
+<img width="1888" height="921" alt="Image" src="https://github.com/user-attachments/assets/e8af51d3-7c33-4ce3-b925-8edf81ac6e9f" />
+
+<img width="1885" height="916" alt="Image" src="https://github.com/user-attachments/assets/5484eeb1-5400-4520-896f-5f005ffd4610" />
+
+<img width="1890" height="917" alt="Image" src="https://github.com/user-attachments/assets/a4fcf54c-971a-405b-800a-f536fce3f7eb" />
 
 ## Contributors
 
