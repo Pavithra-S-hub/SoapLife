@@ -10,6 +10,7 @@
 ## 🧑‍🤝‍🧑 Team Members
  
 -Team Lead:  Abhiram H-GECT
+
 -Member 2: Pavithra S-GECT
 
 ---
@@ -48,14 +49,18 @@ We are creating a website to showcase SoapLife and its features:
 <img width="1888" height="921" alt="Image" src="https://github.com/user-attachments/assets/67fce18b-2997-4d8c-b8f8-1e6505a7c56a" />
 
 <img width="1885" height="916" alt="Image" src="https://github.com/user-attachments/assets/16dd4266-afaa-4fbf-b93c-e231b430bb0d" />
+
+<img width="1890" height="917" alt="Image" src="https://github.com/user-attachments/assets/731337aa-0a4c-4c65-bf1a-0ee062e73e34" />
 ---
 
 ## Contributors
 
 -Abhiram H
+
 -Pavithra S
 
 ---
+
 
 
 
